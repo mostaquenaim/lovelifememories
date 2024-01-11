@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Photographer",
+        "email": "john@example.com",
+        "phone": "+1 (123) 456-7890",
+        "image" : "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/350116432_1022635662058258_8922947998477743915_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2kEjmGMcvrPcaZsKDrh41I-go21ENzacj6CjbUQ3NpzBNInaZGFst4NtQWOxUEVW20Ba77flHo3s5sQuiYW5k&_nc_ohc=8VmCMRNv4OIAX9GUojk&_nc_oc=AQmNZKg8_nokp69kNGTOlkzzQ98puaMNvbabyNiPp9YSScowzBwLhIL5JSsD5U1mRyM&_nc_ht=scontent.fdac14-1.fna&oh=00_AfDz7QPUxiF0iOZctt9DOMn2tWxBM7lwlhRSkykw0cy4DA&oe=653447B1",
+        "facebook": "https://www.facebook.com/ashiq.ahmed.taq",
+        "instagram": "https://www.instagram.com/lovelifememories_bd/"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Cinematographer",
+        "email": "jane@example.com",
+        "phone": "+1 (234) 567-8901",
+        "image" : "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/279951073_163449152787824_6614455298296686546_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG0OzH-F4zXRM5be6bNlPW8fMfZeAP_N498x9l4A_83jy2GrVok_1tC1S6tBg7RWYbpprpq5wsDJ-b2RfS_7b_2&_nc_ohc=2lqix39ncsQAX80t9f8&_nc_ht=scontent.fdac14-1.fna&oh=00_AfA_NLlLW7KOHkD7CDRB6h2-Phxsaa8tmhG6_X5TdZSovA&oe=6534393C",
+        "facebook": "https://www.facebook.com/ashiq.ahmed.taq",
+        "instagram": "https://www.instagram.com/lovelifememories_bd/"
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "position": "Drone Operator",
+        "email": "alice@example.com",
+        "phone": "+1 (345) 678-9012",
+        "image" : "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/350116432_1022635662058258_8922947998477743915_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2kEjmGMcvrPcaZsKDrh41I-go21ENzacj6CjbUQ3NpzBNInaZGFst4NtQWOxUEVW20Ba77flHo3s5sQuiYW5k&_nc_ohc=8VmCMRNv4OIAX9GUojk&_nc_oc=AQmNZKg8_nokp69kNGTOlkzzQ98puaMNvbabyNiPp9YSScowzBwLhIL5JSsD5U1mRyM&_nc_ht=scontent.fdac14-1.fna&oh=00_AfDz7QPUxiF0iOZctt9DOMn2tWxBM7lwlhRSkykw0cy4DA&oe=653447B1",
+        "facebook": "https://www.facebook.com/ashiq.ahmed.taq",
+        "instagram": "https://www.instagram.com/lovelifememories_bd/"
+    },
+    {
+        "id": 4,
+        "name": "Bob Wilson",
+        "position": "Editor",
+        "email": "bob@example.com",
+        "phone": "+1 (456) 789-0123",
+        "image" : "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/350116432_1022635662058258_8922947998477743915_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2kEjmGMcvrPcaZsKDrh41I-go21ENzacj6CjbUQ3NpzBNInaZGFst4NtQWOxUEVW20Ba77flHo3s5sQuiYW5k&_nc_ohc=8VmCMRNv4OIAX9GUojk&_nc_oc=AQmNZKg8_nokp69kNGTOlkzzQ98puaMNvbabyNiPp9YSScowzBwLhIL5JSsD5U1mRyM&_nc_ht=scontent.fdac14-1.fna&oh=00_AfDz7QPUxiF0iOZctt9DOMn2tWxBM7lwlhRSkykw0cy4DA&oe=653447B1",
+        "facebook": "https://www.facebook.com/ashiq.ahmed.taq",
+        "instagram": "https://www.instagram.com/lovelifememories_bd/"
+    }
+]

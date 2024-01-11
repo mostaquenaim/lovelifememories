@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Image 1",
+        "url" : "/marq1-1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Image 2",
+        "url" : "/marq1-2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Image 3",
+        "url" : "/marq1-3.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Image 4",
+        "url" : "/marq1-4.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Image 4",
+        "url" : "/marq1-5.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Image 4",
+        "url" : "/marq1-6.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Image 5",
+        "url" : "/marq1-7.jpg"
+    }
+]

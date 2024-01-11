@@ -1,0 +1,18 @@
+[
+    {
+        "id": 5,
+        "name": "ASHIQ AHMED",
+        "position": "Chairman",
+        "email": "robert.wilson@example.com",
+        "phone": "+1 (345) 678-9012",
+        "image": "/ashiq.png"
+    },
+    {
+        "id": 4,
+        "name": "NAIMUL HOSSAIN DURJOY",
+        "position": "Managing Director",
+        "email": "robert.wilson@example.com",
+        "phone": "+1 (345) 678-9012",
+        "image": "/durjoy.png"
+    }
+]

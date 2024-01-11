@@ -1,0 +1,122 @@
+[
+    {
+        "name": "LoveLife Studios",
+        "description": "Professional Product and Brand Solution. Covering product photography, commercials, advertisement contents and many more.",
+        "image": "/lovelife-studio.jpg",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/lovelifestudiosbd",
+        "tagline": "A Tale Through Our Lens"
+    },
+    {
+        "name": "LoveLife Tiny & Toddlers",
+        "description": "Capturing the joyful liveliness of children through lenses. Cover Baby shoot, Newborn Shoot and many more toddler things.",
+        "image": "/lovelife-tiny.jpg",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/lovelifetinyandtoddlers",
+        "tagline": "Capturing Joyful Moments"
+    },
+    {
+        "name": "LoveLife Event Management",
+        "description": "Artistic Event Management Firm covering weddings, birthdays, and many more. From informal to top-notch corporate events, they got everything covered.",
+        "image": "/event-lovelif.jpg",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/profile.php?id=100086579922068",
+        "tagline": "Unleashing Professional Brilliance"
+    },
+    {
+        "name": "Luxe Business Frame",
+        "description": "Corporal shoot and solution for brands and corporate houses. Covering both professional photography and cinematography, including headshots, documentary, and many more.",
+        "image": "/lux.jpg",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/luxebusinessframe",
+        "tagline": "Unleashing Professional Brilliance"
+    },
+    {
+        "name": "Tahams",
+        "description": "Tahams is a clothing brand known for its trendy and stylish apparel.",
+        "image": "/tahamas.png",
+        "phone": "01602-054102",
+        "email": "tahamsbd@gmail.com",
+        "website": "tahams.com",
+        "facebook": "https://www.facebook.com/tahamsbd",
+        "tagline": "THE UNIQUE WAY OF LIFE."
+    },
+    {
+        "name": "SammTech",
+        "description": "360 Brand Solution Agency. From the marketing aspect to business development, they got every service covered.",
+        "image": "/sammtech.jpg",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/sammtech.co",
+        "tagline": "Ease Your Business"
+    },
+    {
+        "name": "HoneyComb Inc.",
+        "description": "Parent company of SammTech, Lovelife Memories Ltd., Tahams, Enliven Event Management, Lovelife Event Management, Lovelife Studios, Gadget Bhai, Miss and Mrs, Phoron, and Guljaar. One parental company that has everything covered via multiple hands.",
+        "image": "/honeycomb.png",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/HoneyCombIncGlobal",
+        "tagline": "HoneyComb Inc. Global"
+    },
+    {
+        "name": "Enliven Event Solution",
+        "description": "One-stop event management solution for everyone, from homely decors to full-fledged hall events, they cover everything.",
+        "image": "/enliven.jpg",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/enliveneventsolutionbd",
+        "tagline": "Event Planning Solution"
+    },
+    {
+        "name": "Miss & Mrs",
+        "description": "Prominent Clothing Brand for Women. Covering varieties of local and imported products for everyone.",
+        "image": "/miss-and-mrs.png",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/missandmrsbd",
+        "tagline": "Official Page of Miss & Mrs, a Bangladeshi Brand for Women"
+    },
+    {
+        "name": "GadgetVai",
+        "description": "Gadget and Electronic Product Store covering daily usage gears and equipment. One-stop gadget solution for everyone.",
+        "image": "/gadget-vai.jpg",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/gadgetvaibd",
+        "tagline": "Multi Branded Retail Chain e-Stores of Premium Accessories in Bangladesh."
+    },
+    {
+        "name": "Guljaar",
+        "description": "Guljaar is an all-in-one multivendor platform for Women including dresses, groceries, cosmetics, and many more.",
+        "image": "/guljar.png",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/guljaar.limited",
+        "tagline": ""
+    },
+    {
+        "name": "Phoron - ফোড়ন",
+        "description": "Homemade food franchise providing fresh homemade goods. Changing the eating habits with pure artistry.",
+        "image": "/forom.jpg",
+        "phone": "+1 267-210-4576",
+        "email": "sammtechit@gmail.com",
+        "website": "https://samm-tech.net/",
+        "facebook": "https://www.facebook.com/phoronbangaldesh",
+        "tagline": "ঘরোয়া পরিবেশে তৈরি স্বাস্থ্যকর ও সুস্বাদু খাবার"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "SALMA AKHTER",
+        "position": "Director",
+        "email": "john.smith@example.com",
+        "phone": "+1 (123) 456-7890",
+        "image": "/salma.png",
+        "linkedin": "https://www.linkedin.com/in/johnsmith"
+    },
+    {
+        "id": 6,
+        "name": "ISRAT SULTANA TOHFA",
+        "position": "Director",
+        "email": "robert.wilson@example.com",
+        "phone": "+1 (345) 678-9012",
+        "image": "/israt.png",
+        "linkedin": "https://www.linkedin.com/in/robertwilson"
+    },
+    {
+        "id": 2,
+        "name": "KAMRUN NAHAR",
+        "position": "Director",
+        "email": "alice.johnson@example.com",
+        "phone": "+1 (234) 567-8901",
+        "image": "/mom.png",
+        "linkedin": "https://www.linkedin.com/in/alicejohnson"
+    },
+    {
+        "id": 3,
+        "name": "MD MAHBUB HOSSAIN FARUK",
+        "position": "Director",
+        "email": "robert.wilson@example.com",
+        "phone": "+1 (345) 678-9012",
+        "image": "/dad.png",
+        "linkedin": "https://www.linkedin.com/in/robertwilson"
+    }
+]

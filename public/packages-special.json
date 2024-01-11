@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "Add ons",
+      "description": "You can add this add ons to packages according to your convenience",
+      "image": "https://i.ibb.co/3yvCs0G/add-ons.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Custom Package",
+      "description": "You can create your own custom package according to your convenience",
+      "image": "https://i.ibb.co/cwDvfJT/custom.jpg"
+    }
+]

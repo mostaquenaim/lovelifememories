@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Samakal",
+        "logo":"/Somokal-Logo.png",
+        "date": "2023-8-12",
+        "title": "LoveLife Memories: From hobby to profession",
+        "description": "A photographer enjoys the satisfaction that lies in capturing an ordinary moment in an extraordinary way. Where all the moments in the world are fleeting, only the camera can capture our beautiful moments in the frame.",
+        "link": "https://samakal.com/feature/article/2308189424/%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AB-%E0%A6%AE%E0%A7%87%E0%A6%AE%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%9C-%E0%A6%B6%E0%A6%96-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%87-%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE"
+    },
+    {
+        "id": 2,
+        "name": "Daily Asian Age",
+        "logo":"/The-Asian-Age.png",
+        "date": "2023-8-10",
+        "title": "Make Your Memories Last Forever",
+        "description": "In a world where moments fleetingly pass by, LoveLife Memories emerges as the maestro of freezing time - capturing those ephemeral wedding moments that etch their magic onto the sands of eternity. Established in 2016 by the visionary trio of Ashiq Ahmed, Naimul Hossain Durjoy, and Israt Sultana Tohfa, LoveLife Memories embarked on a journey to transform your special day into cherished memories that last forever.",
+        "link": "https://dailyasianage.com/news/310524/make-your-memories-last-forever?fbclid=IwAR10gKIPBkCXe50b1MWtBDSsBZC6yXUUB0ZZ6_GvmC_w4M8PWk4FEUzlLMc"
+    },
+    {
+        "id": 3,
+        "name": "Ittefaq",
+        "logo":"/Ittefaq-Logo.png",
+        "date": "2023-08-12",
+        "title": "Keep your beautiful moments forever",
+        "description": "Where all the moments in the world are fleeting, only the camera can capture the beautiful moments in the frame for a long time. Lovelife Memories, a wedding photography and cinematography company. Those who frame your precious fleeting wedding moments keep the joys of those beautiful moments fresh forever.",
+        "link": "https://www.ittefaq.com.bd/655457/%E0%A6%86%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%A7%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A7%81%E0%A6%A8-%E0%A6%86%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8"
+    },
+    {
+        "id": 4,
+        "name": "The Bangladesh Today",
+        "logo":"https://thebangladeshtoday.com/wp-content/uploads/2023/05/TBT-Logo.png",
+        "date": "2023-08-17",
+        "title": "Unveiling Timeless Love Stories",
+        "description": "Lovelife Memories emerges as the conductor of temporal magic – capturing those ephemeral wedding moments that etch their enchantment onto the tapestry of eternity.With its inception in 2016 by the visionary triumvirate of Ashiq Ahmed, Naimul Hossain Durjoy, and Israt Sultana Tohfa, Lovelife Memories embarked on a quest to metamorphose your special day into treasured memories that endure.",
+        "link": "https://thebangladeshtoday.com/?p=57096&fbclid=IwAR2BxrtMYXbU-NOs--TVAlzZq3xAcolaToz65xmR8uPgsz9XzCmdrnVf-w4"
+    }, 
+    {
+        "id": 5,
+        "name": "The Daily Post",
+        "logo":"https://www.dailypost.net/assets/img/dailypost.png",
+        "date": "2023-08-11",
+        "title": "Creating Timeless Love Stories Through the Lens",
+        "description": "In a world where fleeting moments leave their mark, Lovelife Memories stands as a master of freezing time – capturing those fleeting wedding moments and etching their enchantment into the sands of eternity. Established in 2016 by the visionary trio of Ashiq Ahmed, Naimul Hossain Durjoy, and Israt Sultana Tohfa, Lovelife Memories embarked on a journey to weave your special day into cherished memories that will forever remain close to your heart.",
+        "link": "https://www.dailypost.net/feature/creating-timeless-love-stories-through-the-lens/4784"
+    }
+]

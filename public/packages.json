@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "STANDARD PACKAGE 1",
+      "description": "1 Lead Photographer\nPrinted 50 pieces (4R) & 1 piece (10L With Frame)\nAll photos will be specially edited\nLifetime Backup Available\nDuration: 5 Hours",
+      "price": "10000 BDT",
+      "color": "#0000FF"
+    },
+    {
+      "id": 2,
+      "name": "STANDARD PACKAGE 2",
+      "description": "2 Lead Photographers\nPrinted 50 pieces (4R) & 1 piece (10L With Frame)\nAll photos will be specially edited\nLifetime Backup Available\nDuration: 5 Hours",
+      "price": "18000 BDT",
+      "color": "#0000FF"
+    },
+    {
+      "id": 3,
+      "name": "ELITE PACKAGE 1",
+      "description": "1 Core Photographer\nPrinted 50 pieces (4R) & 1 piece (10L With Frame)\nAll photos will be specially edited\nLifetime Backup Available\nDuration: 5 Hours",
+      "price": "12000 BDT",
+      "color": "#800080"
+    },
+    {
+      "id": 4,
+      "name": "ELITE PACKAGE 2",
+      "description": "2 Core Photographers\nPrinted 50 pieces (4R) & 1 piece (10L With Frame)\nAll photos will be specially edited\nLifetime Backup Available\nDuration: 5 Hours",
+      "price": "22000 BDT",
+      "color": "#800080"
+    },
+    {
+      "id": 5,
+      "name": "STORY TELLING PACKAGE 1",
+      "description": "1 Chief Photographer\n1 Core Photographer\nDrone Shoot\nPrinted 50 pieces (4R) & 1 piece (10L With Frame) + Photobook\nAll photos will be specially edited\nPendrive Delivery + Lifetime Backup\nDuration: 5 Hours\nOutdoor Shoot: 2 Hours",
+      "price": "35000 BDT",
+      "color": "#FFD700"
+    },
+    {
+        "id": 6,
+        "name": "STORY TELLING PACKAGE 2",
+        "description": "1 Chief Photographer\n4 Core Photographers\n5 Core Cinematographers\nDrone Shoot\n1 piece (10L With Frame) + Photobook\nShort Film 1-2 mins & Full Film 5-25 mins\nAll photos will be specially edited\nPendrive Delivery + Lifetime Backup\nDuration: 5 Hours\nOutdoor Shoot: 2 Hours",
+        "price": "115000 BDT",
+        "color": "#FFD700"
+    }
+  ]
+  

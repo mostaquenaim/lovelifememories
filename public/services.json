@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "Wedding",
+        "short_description": "Capture the magic of your special day.",
+        "description": "Capture the magic of your special day with our wedding photography services. Our experienced photographers will document every moment, from the ceremony to the reception, ensuring that your love story is beautifully preserved. Make your wedding memorable with LoveLife Memories.",
+        "image": "https://i.ibb.co/Vvqk4r1/wedding.jpg",
+        "price": "৳150,000 and up",
+        "color": "#c77a87",
+        "images": [
+            "https://i.ibb.co/TRDMHYk/wed-5.jpg",
+            "https://i.ibb.co/ypp6v2X/wed-4.jpg",
+            "https://i.ibb.co/0hCkfJk/wed-3.jpg",
+            "https://i.ibb.co/nCYKPhT/wed-2.jpg",
+            "https://i.ibb.co/b3Js2Ws/wed-1.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Birthday Party",
+        "short_description": "Celebrate another year of life.",
+        "description": "Celebrate another year of life with our birthday party photography services. We'll capture the joy, laughter, and memories as you and your loved ones come together to mark the occasion. Make your birthday party memorable with LoveLife Memories.",
+        "image": "https://i.ibb.co/PhZ2w0R/birthday.jpg",
+        "price": "৳30,000 and up",
+        "color": "#FFC300",
+        "images": [
+            "https://i.ibb.co/BNn1pN2/bd-4.jpg",
+            "https://i.ibb.co/c6mxLc6/bd-3.jpg",
+            "https://i.ibb.co/89Cn1sK/bd-2.jpg",
+            "https://i.ibb.co/SKdgNzf/bd-1.jpg"
+        ]
+        
+    },
+    {
+        "id": 3,
+        "name": "Holud",
+        "short_description": "Make your Holud ceremony memorable.",
+        "description": "Make your Holud ceremony a memorable event with our photography services. We'll capture the vibrant colors, rituals, and emotions of this special pre-wedding celebration. Make your Holud ceremony memorable with LoveLife Memories.",
+        "image": "https://i.ibb.co/D8WKSBy/Holud.jpg",
+        "price": "৳40,000 and up",
+        "color": "#fdbf63",
+        "images": [
+            "https://i.ibb.co/TwqjrPK/holud-3.jpg",
+            "https://i.ibb.co/vX7LWzC/holud-2.jpg",
+            "https://i.ibb.co/dP1RtBn/holud-1.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ashirbaad",
+        "short_description": "Document the blessings and traditions.",
+        "description": "Document the blessings and traditions of your Ashirbaad ceremony with our photography services. We'll capture the moments of love and blessings from your family and elders. Document your Ashirbaad ceremony with LoveLife Memories.",
+        "image": "https://i.ibb.co/tbhs7Qk/ash-1.jpg",
+        "price": "৳35,000 and up",
+        "color": "#7d112d",
+        "images": [
+            "https://i.ibb.co/kcQ0CVR/ash-2.jpg",
+            "https://i.ibb.co/tbhs7Qk/ash-1.jpg  "
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Bridal Shower",
+        "short_description": "Celebrate the bride-to-be.",
+        "description": "Celebrate the bride-to-be with our bridal shower photography services. We'll capture the joy, games, and special moments as the bride prepares for her big day. Celebrate the bridal shower with LoveLife Memories.",
+        "image": "https://i.ibb.co/myxPw92/bridal-shower.jpg",
+        "price": "৳30,000 and up",
+        "color": "#111013",
+        "images": [
+            "https://i.ibb.co/cNMDmPc/bridal-3.jpg",
+            "https://i.ibb.co/PhNvRTs/bridal-2.jpg",
+            "https://i.ibb.co/myxPw92/bridal-shower.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Maternity",
+        "short_description": "Celebrate the beauty of pregnancy.",
+        "description": "Celebrate the beauty of pregnancy with our maternity photography services. We'll capture the glow, anticipation, and love as you await the arrival of your little one. Celebrate maternity with LoveLife Memories.",
+        "image": "https://i.ibb.co/MZswRpG/maternity.jpg",
+        "price": "৳35,000 and up",
+        "color": "#d8d6e3",
+        "images": [
+            "https://i.ibb.co/QYtVmP8/mat-3.jpg",
+            "https://i.ibb.co/2NSmRZR/mat-2.jpg",
+            "https://i.ibb.co/MZswRpG/maternity.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Baby Shower",
+        "short_description": "Welcome a new addition to the family.",
+        "description": "Welcome a new addition to the family with our baby shower photography services. We'll capture the anticipation, love, and excitement as you prepare for the arrival of your little one. Welcome the baby with LoveLife Memories.",
+        "image": "https://i.ibb.co/5L6KJrg/baby-1.jpg",
+        "price": "৳30,000 and up",
+        "color": "#f84f4a",
+        "images": [
+            "https://i.ibb.co/QD6TwXD/baby-3.jpg",
+            "https://i.ibb.co/997msLX/baby-2.jpg",
+            "https://i.ibb.co/5L6KJrg/baby-1.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Akdh Shoot",
+        "short_description": "Make your Akdh Memorable with us.",
+        "description": "Make your Akdh ceremony memorable with our photography services. We'll capture the beauty and traditions of this special occasion. Make your Akdh memorable with LoveLife Memories.",
+        "image": "https://i.ibb.co/T1zcLXv/akdh-shoot.jpg",
+        "price": "৳30,000 and up",
+        "color": "#825c55",
+        "images": [
+            "https://i.ibb.co/hXRh9nj/akd.jpg",
+            "https://i.ibb.co/KVF564N/akdh-3.jpg",
+            "https://i.ibb.co/VQGMQn6/aksh-2.jpg",
+            "https://i.ibb.co/Jv9M9jy/akdh.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Mehedi Ceremony",
+        "short_description": "Capture the beauty of Mehendi ceremonies.",
+        "description": "Capture the beauty of Mehendi ceremonies with our photography services. We'll document the intricate henna designs and the joyous moments of this traditional celebration. Capture Mehendi with LoveLife Memories.",
+        "image": "https://i.ibb.co/Pxqr8hN/mehdi-1.jpg",
+        "price": "৳25,000 and up",
+        "color": "#01704f",
+        "images": [
+            "https://i.ibb.co/8XHh3m1/mehdi-3.jpg",
+            "https://i.ibb.co/8d13S4y/mehdo-2.jpg",
+            "https://i.ibb.co/Pxqr8hN/mehdi-1.jpg"
+        ]
+    }
+]

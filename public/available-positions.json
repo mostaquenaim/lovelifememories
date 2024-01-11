@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "position": "Photographer",
+        "location": "Dhaka"
+    },
+    {
+        "id": 2,
+        "position": "Cinematographer",
+        "location": "Dhaka"
+    },
+    {
+        "id": 3,
+        "position": "Video Editor",
+        "location": "Dhaka"
+    },
+    {
+        "id": 4,
+        "position": "Photo Editor",
+        "location": "Dhaka"
+    },
+    {
+        "id": 5,
+        "position": "Event Manager",
+        "location": "Dhaka"
+    },
+    {
+        "id": 6,
+        "position": "Field Manager",
+        "location": "Dhaka"
+    },
+    {
+        "id": 7,
+        "position": "Marketing Executive",
+        "location": "Dhaka"
+    },
+    {
+        "id": 8,
+        "position": "Office Manager",
+        "location": "Dhaka"
+    },
+    {
+        "id": 9,
+        "position": "General Manager",
+        "location": "Dhaka"
+    },
+    {
+        "id": 10,
+        "position": "Chief Executive Officer",
+        "location": "Dhaka"
+    },
+    {
+        "id": 11,
+        "position": "Digital Marketer",
+        "location": "Dhaka"
+    },
+    {
+        "id": 12,
+        "position": "Web Developer & Designer",
+        "location": "Dhaka"
+    }
+]

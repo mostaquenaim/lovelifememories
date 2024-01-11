@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "Title": "Lifetime Backup",
+        "Description": "Lifetime backup for photos and videos ensures the preservation of cherished memories, protects against data loss, and provides peace of mind for generations to come.",
+        "icon": "/Lifetime-Backup-W.png"
+    },
+    {
+        "id": 2,
+        "Title": "Prime Lenses, Pure Artistry",
+        "Description": "Prime lenses are our choice for capturing sharp, high-quality images.",
+        "icon": "/Prime-Lenses-Pure-Artistry-W.png"
+    },
+    {
+        "id": 3,
+        "Title": "Pioneering Storytellers",
+        "Description": "Dedicated photographers and cinematographers in our team capture your moments with creativity and passion.",
+        "icon": "/Pioneering-Storytellers-W.png"
+    },
+    {
+        "id": 4,
+        "Title": "Color Grading/ Post Process",
+        "Description": "We are dedicated to preserving your precious moments in full color. From the instant we frame your memories through our lenses to the meticulous post-processing phase, we're passionate about maintaining the vibrancy of each hue.",
+        "icon": "/Color-Grading-Post-Process-W.png"
+    },
+    {
+        "id": 5,
+        "Title": "Aftercare",
+        "Description": "Our commitment does not end at the sale. Our aftercare services ensure you are always satisfied with your service.",
+        "icon": "/Aftercare-W (1).png"
+    },
+    {
+        "id": 6,
+        "Title": "Versatile",
+        "Description": "We specialize in capturing candid, glamorous, documentary, and photojournalistic moments.",
+        "icon": "/Versatile-W.png"
+    }
+]
