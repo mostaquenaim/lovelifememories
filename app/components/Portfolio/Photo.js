@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ModalComp from '../ModalComp';
+import ModalComp from '../Modal/ModalComp';
 
 const Photo = ({ item }) => {
     const { image, date } = item;

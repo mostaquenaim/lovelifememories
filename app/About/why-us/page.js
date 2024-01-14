@@ -3,7 +3,6 @@ import { useState } from "react";
 import { useEffect } from "react";
 
 const WhyUs = () => {
-
     const [reasons, setReasons] = useState([])
 
     useEffect(() => {

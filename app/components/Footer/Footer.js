@@ -55,12 +55,11 @@ const Footer = () => {
                     <SocialLinks2></SocialLinks2>
                 </div>
             </div>
-            <div className='lg:hidden text-center text-sm opacity-60 mb-12 '>
+            <div className='lg:hidden text-center text-sm opacity-60 mb-12'>
                 <p>COPYRIGHT © 2023 LOVELIFE MEMORIES LTD.</p>
                 <p className='w-full text-center'>Made by <a href='https://www.facebook.com/sammtech.co' target='_blank' rel="noreferrer">SammTech</a> with <AiTwotoneHeart className='inline-block'></AiTwotoneHeart></p>
             </div>
         </footer>
-
     );
 };
 

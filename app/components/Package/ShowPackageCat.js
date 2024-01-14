@@ -1,5 +1,5 @@
+import Link from 'next/link';
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 const ShowPackageCat = ({ item, handleClick }) => {
     const { name, image, id } = item
@@ -13,12 +13,18 @@ const ShowPackageCat = ({ item, handleClick }) => {
                     {/* <div className='absolute h-full bg-black z-20 w-full'></div> */}
                     <div className="transition absolute inset-0 flex flex-col items-center justify-end text-center group">
                         <h2 className="text-lg font-bold text-base-100 group-hover:-translate-y-48 duration-500 uppercase">{name}</h2>
-                        <Link 
-                        to={`/show-package/${id}`}
-                        state={item}
+                        <Link
+                            // href={`/show-package/${id}`},
+                            href={{
+                                pathname:`/show-package/${id}`,
+                                query:{
+                                  item: item
+                                },
+                              }}
+                              as ={`/show-package/${id}`}
                         >
                             <button
-                                // onClick={() => handleClick(id)}
+                                // onClick={() => handleClick(item)}
                                 className=" 
                         opacity-0
                         group-hover:opacity-100

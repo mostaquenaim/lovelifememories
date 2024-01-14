@@ -5,18 +5,17 @@ const Achievements = () => {
     const [achievements, setAchievements] = useState(null);
 
     useEffect(() => {
-      const fetchData = async () => {
-        try {
-          const response = await fetch('/sisters.json');
-          const data = await response.json();
-          setAchievements(data);
-          console.log(data, "14");
-        } catch (error) {
-          console.error('Error fetching banner data:', error);
-        }
-      };
-  
-      fetchData();
+        const fetchData = async () => {
+            try {
+                const response = await fetch('/achievements.json');
+                const data = await response.json();
+                setAchievements(data);
+                console.log(data, "14");
+            } catch (error) {
+                console.error('Error fetching banner data:', error);
+            }
+        };
+        fetchData();
     }, []);
 
     return (
@@ -52,7 +51,7 @@ const Achievements = () => {
                     <div
                         key={achievement.id}
                         className="border border-gray-300 p-4 rounded-md">
-                            <img src={achievement.logo}></img>
+                        <img src={achievement.logo} />
                         <h2 className="text-xl font-bold text-primary">
                             {achievement.title}
                         </h2>
