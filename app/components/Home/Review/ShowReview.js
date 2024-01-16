@@ -1,3 +1,4 @@
+import Image from "next/image";
 
 const ShowReview = ({ review }) => {
     return (
@@ -17,9 +18,11 @@ const ShowReview = ({ review }) => {
                 </svg>
                 <p className="leading-relaxed mb-6">{review.review}</p>
                 <div className="flex items-center">
-                    <img
+                    <Image
                         alt="testimonial"
                         src={review.avatar}
+                        width={50}
+                        height={50}
                         className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
                     />
                     <div className="flex-grow flex flex-col pl-4 text-black opacity-70">

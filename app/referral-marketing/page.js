@@ -5,7 +5,7 @@ const ReferralMarketing = () => {
             <h1 className="text-xl md:text-2xl lg:text-4xl font-extrabold text-primary mb-8 text-center">Join Our Referral Program</h1>
             <div className="max-w-3xl text-gray-700 text-center">
                 <p className="text-sm md:text-base lg:text-lg mb-6">
-                    LoveLife Memories Ltd. has been providing photography and cinematography services in the wedding industry since 2016. You can earn a commission by simply referring or suggesting our services to your friends. When they book with us, you'll receive a commission as a token of our appreciation. Sharing the benefits has never been more rewarding.
+                    LoveLife Memories Ltd. has been providing photography and cinematography services in the wedding industry since 2016. You can earn a commission by simply referring or suggesting our services to your friends. When they book with us, you will receive a commission as a token of our appreciation. Sharing the benefits has never been more rewarding.
                 </p>
                 <p className="text-sm md:text-base lg:text-lg mb-8">
                     For more information, please call us at <a href="tel:+8801720087583" className="text-primary hover:underline">01720087583</a>.

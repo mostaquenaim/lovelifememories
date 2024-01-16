@@ -11,10 +11,10 @@ const Payment = () => {
                     </p>
                     <ul className="list-disc pl-6 text-gray-600">
                         <li>Open your bKash app on your mobile phone.</li>
-                        <li>Select the "Send Money" option.</li>
-                        <li>Enter the recipient's bKash number: [Your bKash Number].</li>
+                        <li>Select the &quot;Send Money&quot; option.</li>
+                        <li>Enter the recipient&apos;s bKash number: [Your bKash Number].</li>
                         <li>Enter the payment amount: [Amount].</li>
-                        <li>Include your order/reference number in the "Reference" field.</li>
+                        <li>Include your order/reference number in the  &quot;Reference&quot; field.</li>
                         <li>Review the payment details and confirm the transaction.</li>
                         <li>Your payment will be processed.</li>
                     </ul>
@@ -26,10 +26,10 @@ const Payment = () => {
                     </p>
                     <ul className="list-disc pl-6 text-gray-600">
                         <li>Open your Nagad app on your mobile phone.</li>
-                        <li>Select the "Send Money" option.</li>
-                        <li>Enter the recipient's Nagad number: [Your Nagad Number].</li>
+                        <li>Select the  &quot;Send Money&quot; option.</li>
+                        <li>Enter the recipient&apos;s Nagad number: [Your Nagad Number].</li>
                         <li>Enter the payment amount: [Amount].</li>
-                        <li>Include your order/reference number in the "Reference" field.</li>
+                        <li>Include your order/reference number in the  &quot;Reference&quot; field.</li>
                         <li>Review the payment details and confirm the transaction.</li>
                         <li>Your payment will be processed.</li>
                     </ul>

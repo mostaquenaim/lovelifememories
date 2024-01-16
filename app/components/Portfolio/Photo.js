@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import ModalComp from '../Modal/ModalComp';
+import Image from 'next/image';
 
 const Photo = ({ item }) => {
     const { image, date } = item;
@@ -16,7 +17,12 @@ const Photo = ({ item }) => {
     return (
         <div className="shadow-lg">
             <figure className="relative h-[500px] w-full bg-black group rounded-xl">
-                <img src={image} alt="" className="h-[500px] w-full bg-black opacity-50 rounded-xl" />
+                <Image
+                    width={400}
+                    height={850}
+                    src={image}
+                    alt=""
+                    className="h-[500px] w-full bg-black opacity-50 rounded-xl" />
                 <div className="transition absolute inset-0 flex justify-between items-end text-end m-5">
                     <span className="text-base-100 opacity-0 group-hover:opacity-60 duration-500">{date}</span>
                     <button

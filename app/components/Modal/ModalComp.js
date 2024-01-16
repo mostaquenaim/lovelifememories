@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import React from 'react';
 
 const ModalComp = ({ isOpen, image, onClose }) => {
@@ -12,8 +13,12 @@ const ModalComp = ({ isOpen, image, onClose }) => {
             <div
                 data-aos="zoom-in-up"
                 className="modal-container p-4 bg-white rounded-lg z-50">
-                <img src={image} alt="Modal" className='max-h-[600px] max-w-full' />
-                {/* <button onClick={onClose}>Close</button> */}
+                <Image
+                    width={400}
+                    height={850}
+                    src={image}
+                    alt="Modal"
+                    className='max-h-[600px] max-w-full' />
             </div>
         </div>
     );

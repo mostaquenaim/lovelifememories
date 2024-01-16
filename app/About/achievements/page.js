@@ -1,4 +1,5 @@
 'use client'
+import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
 
 const Achievements = () => {
@@ -51,7 +52,11 @@ const Achievements = () => {
                     <div
                         key={achievement.id}
                         className="border border-gray-300 p-4 rounded-md">
-                        <img src={achievement.logo} />
+                        <Image
+                            width={400}
+                            height={100}
+                            src={achievement.logo} 
+                            alt={`${achievement.title} logo`}/>
                         <h2 className="text-xl font-bold text-primary">
                             {achievement.title}
                         </h2>

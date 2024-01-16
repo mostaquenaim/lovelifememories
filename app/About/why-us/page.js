@@ -1,4 +1,5 @@
 'use client'
+import Image from "next/image";
 import { useState } from "react";
 import { useEffect } from "react";
 
@@ -47,7 +48,11 @@ const WhyUs = () => {
                                     className="rounded-md shadow-lg shadow-gray-500 bg-gradient-to-b from-neutral to-red-400 p-8 text-center">
                                     <div className="button-text mx-auto flex h-12 w-12 items-center justify-center rounded-md "
                                     >
-                                        <img src={reason.icon} alt="" />
+                                        <Image
+                                            src={reason.icon}
+                                            width={50}
+                                            height={50}
+                                            alt="" />
                                     </div>
                                     <h3 className="mt-6 text-base-100 text-xl font-semibold">{reason.Title}</h3>
                                     <p className="my-4 mb-0 font-normal leading-relaxed tracking-wide text-base-100 opacity-80">{reason.Description}</p>

@@ -1,4 +1,5 @@
 'use client'
+import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import { BsAlipay, BsFillTelephoneFill, BsPaypal } from 'react-icons/bs';
@@ -24,7 +25,11 @@ const PackageById = ({ item }) => {
                                         <p className='opacity-80' key={index}>{detail}</p>
                                     ))
                                         :
-                                        <img src={item.image} alt="" />
+                                        <Image
+                                            width={400}
+                                            height={850}
+                                            src={item.image}
+                                            alt="" />
                                 }
                                 <Link href={`tel:${phoneNo}`}>
                                     <button className="btn btn-md mt-10 text-white bg-black bg-opacity-20 hover:bg-black hover:bg-opacity-50" >
@@ -50,7 +55,7 @@ const PackageById = ({ item }) => {
                     Our photography packages are designed to capture your special moments in the best possible way. With our team of skilled photographers and cinematographers, you can trust us to deliver top-notch services for your events.
                 </p>
                 <p>
-                    For inquiries and bookings, feel free to reach out to us. We're here to make your memories unforgettable.
+                    For inquiries and bookings, feel free to reach out to us. We are here to make your memories unforgettable.
                 </p>
             </div>
         </>

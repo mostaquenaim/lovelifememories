@@ -3,14 +3,18 @@ import { AiOutlineMail, AiTwotoneHeart } from 'react-icons/ai';
 import Link from 'next/link';
 import SocialLinks from '../Socials/SocialLinks';
 import SocialLinks2 from '../Socials/SocialLinks2';
+import Image from 'next/image';
 
 const Footer = () => {
     const phoneNumber = '+8801720087583';
     const email = "lovelifememoriesbd@gmail.com"
     const LoveLifeFooter = <>
-        <img src="/LLM-White-logo.png"
+        <Image
+            width={150}
+            height={50}
+            src="/LLM-White-logo.png"
             alt=""
-            className="h-14"
+            // className="h-14"
         />
         {/* <p className='text-lg'>LoveLife Memories Ltd.</p> */}
         <p className='text-lg italic font-bold'>Make Your Memories Last Forever</p>

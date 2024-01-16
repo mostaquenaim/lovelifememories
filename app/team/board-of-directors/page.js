@@ -1,4 +1,5 @@
 'use client'
+import Image from "next/image";
 import { useState } from "react";
 import { useEffect } from "react";
 
@@ -35,7 +36,9 @@ const BOD = () => {
                         directors.map((director) => (
                             <div key={director.id} className=" p-1 lg:p-4 rounded-lg col-span-2">
                                 <div className="text-center">
-                                    <img
+                                    <Image
+                                        width={150}
+                                        height={150}
                                         src={director.image}
                                         alt={director.name}
                                         className="rounded-full h-14 w-14 md:w-20 md:h-20 lg:h-32 lg:w-32 mx-auto mb-4" />
@@ -58,7 +61,9 @@ const BOD = () => {
                         subDirectors.map((director) => (
                             <div key={director.id} className=" p-1 px-0 lg:p-4 rounded-lg">
                                 <div className="text-center">
-                                    <img
+                                    <Image
+                                        width={150}
+                                        height={150}
                                         src={director.image}
                                         alt={director.name}
                                         className="rounded-full h-10 w-10 md:w-20 md:h-20 lg:h-32 lg:w-32 mx-auto mb-4" />

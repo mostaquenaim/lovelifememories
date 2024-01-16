@@ -6,6 +6,7 @@ import CustomDrawer from "./CustomDrawer";
 import Link from "next/link";
 import Spinner from "../Spinner/Spinner";
 import { ProjectContext } from "@/app/context/Provider";
+import Image from "next/image";
 
 const NavBarComp = () => {
 
@@ -81,7 +82,12 @@ const NavBarComp = () => {
                 </div>
                 <div className="mx-auto">
                     <Link className="hidden lg:inline-block bg-transparent hover:bg-transparent border-transparent shadow-transparent outline-none normal-case text-xl" href={'/'}>
-                        <img src={image} alt="logo" className="h-16 mx-auto" />
+                        <Image
+                            width={200}
+                            height={200}
+                            src={image}
+                            alt="logo"
+                            className="h-16 mx-auto" />
                     </Link>
 
                 </div>
@@ -101,7 +107,12 @@ const NavBarComp = () => {
                             {navLinks}
                         </ul>
                         <Link className=" md:inline-block lg:hidden btn bg-transparent hover:bg-transparent border-transparent shadow-transparent outline-none normal-case text-xl" href={'/'}>
-                            <img src={image} alt="logo" className="h-10 md:h-16" />
+                            <Image
+                                width={120}
+                                height={120}
+                                src={image}
+                                alt="logo"
+                                className="" />
                         </Link>
                     </div>
                     <div className="navbar-end md:text-3xl gap-3">

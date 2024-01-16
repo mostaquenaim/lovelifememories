@@ -6,6 +6,7 @@ import { useRouter } from 'next/navigation'
 import { ProjectContext } from '../context/Provider';
 import ShowPackageCat from '../components/Package/ShowPackageCat';
 import FAQ from '../components/FAQ/FAQ';
+import Image from 'next/image';
 
 const Packages = () => {
     const [packages, setPackages] = useState([]);
@@ -35,12 +36,12 @@ const Packages = () => {
     }, [setLoading]);
 
     const handleClick = (item) => {
-        console.log(item,"38");
+        console.log(item, "38");
         // console.log(id,"38",item);
         router.push({
             pathname: `/show-package/${item.id}`,
             query: { item: item }
-        },`/show-package/${item.id}`)
+        }, `/show-package/${item.id}`)
         // (`/show-package/${item.id}`);
     };
 
@@ -78,7 +79,12 @@ const Packages = () => {
                 {clickedImage && (
                     <div className='fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-80 z-50'>
                         <div className='max-w-3xl w-1/2 p-5 bg-white rounded-lg relative'>
-                            <img src={clickedImage} alt='' className='w-full mx-auto' />
+                            <Image
+                                width={400}
+                                height={850}
+                                src={clickedImage}
+                                alt=''
+                                className='w-full mx-auto' />
                             <button
                                 onClick={() => setClickedImage(null)}
                                 className='absolute top-2 right-2 text-xl cursor-pointer text-black'

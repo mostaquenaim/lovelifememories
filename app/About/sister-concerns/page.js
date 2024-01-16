@@ -1,4 +1,5 @@
 'use client'
+import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
 
 const SisterConcerns = () => {
@@ -30,7 +31,12 @@ const SisterConcerns = () => {
                                 target='_blank'
                                 rel="noreferrer">
                                 <div className="text-center mb-4">
-                                    <img src={sisterConcern.image} alt={sisterConcern.name} className="w-36 h-36 mx-auto rounded-full hover:border-2 border-red-600" />
+                                    <Image
+                                    width={150}
+                                    height={150} 
+                                    src={sisterConcern.image} 
+                                    alt={sisterConcern.name} 
+                                    className="w-36 h-36 mx-auto rounded-full hover:border-2 border-red-600" />
                                 </div>
                             </a>
                             <h2 className="text-lg font-bold text-primary text-center mb-2">{sisterConcern.name}</h2>
