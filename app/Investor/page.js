@@ -8,7 +8,7 @@ const Investor = () => {
                     LoveLife Memories has been providing photography and cinematography services in the wedding industry since 2016. We were registered as a private limited company in 2018. We are currently seeking investment to expand our business.
                 </p>
                 <p className="text-gray-600 mb-4">
-                    We are offering a 30% return on investment for all investors. Investors can choose to receive their returns monthly or annually. Investors can withdraw their investment at any time with 30 days' notice.
+                    We are offering a 30% return on investment for all investors. Investors can choose to receive their returns monthly or annually. Investors can withdraw their investment at any time with 30 days notice.
                 </p>
                 <p className="text-gray-600 mb-4">
                     Additionally, we offer an Islamic Sharia-compliant investment option, which offers a return of 25-32% based on our business profits.

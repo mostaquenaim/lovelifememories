@@ -5,7 +5,7 @@ const CollaboratePartnership = () => {
             <h1 className="text-xl md:text-2xl lg:text-4xl font-extrabold text-primary mb-8 text-center">Collaborate and Partnership</h1>
             <div className="max-w-3xl text-gray-700 text-center">
                 <p className="text-sm md:text-base lg:text-lg mb-8">
-                    LoveLife Memories Ltd. has been providing photography and cinematography services in the wedding industry since 2016. We are joining hands with others in the wedding industry to make special moments even better. Our aim is to work together with fellow wedding professionals for wonderful celebrations. We're forming partnerships in the wedding world to create amazing memories.
+                    LoveLife Memories Ltd. has been providing photography and cinematography services in the wedding industry since 2016. We are joining hands with others in the wedding industry to make special moments even better. Our aim is to work together with fellow wedding professionals for wonderful celebrations. We are forming partnerships in the wedding world to create amazing memories.
                 </p>
                 <p className="text-sm md:text-base lg:text-lg mb-6">
                     For more information, please call us at <a href="tel:+8801720087583" className="text-primary hover:underline">01720087583</a>.
