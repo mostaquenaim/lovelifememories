@@ -1,11 +1,17 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images: {
-        domains: [
-            'thebangladeshtoday.com',
-            'www.dailypost.net',
-        ]
-    }
-}
+  // distDir: 'build',
+  output: 'export',
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**",
+      },
+    ],
+    unoptimized: true,
+    
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;

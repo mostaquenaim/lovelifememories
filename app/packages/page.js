@@ -35,16 +35,6 @@ const Packages = () => {
             });
     }, [setLoading]);
 
-    const handleClick = (item) => {
-        console.log(item, "38");
-        // console.log(id,"38",item);
-        router.push({
-            pathname: `/show-package/${item.id}`,
-            query: { item: item }
-        }, `/show-package/${item.id}`)
-        // (`/show-package/${item.id}`);
-    };
-
     const handleSearch = () => {
         const filteredPackages = packages.filter((item) =>
             item.name.toLowerCase().includes(searchTerm.toLowerCase())
@@ -72,7 +62,7 @@ const Packages = () => {
                 </div>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 mx-auto gap-5'>
                     {selectedPackages.map((item, index) => (
-                        <ShowPackageCat key={index} item={item} handleClick={handleClick} />
+                        <ShowPackageCat key={index} item={item} />
                     ))}
                 </div>
 
