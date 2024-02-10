@@ -8,9 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Lovelife Memories',
   description: 'Make your memories last forever',
-  icons: {
-    icon: '/LLM-Red.png',
-  },
+  // icons: {
+  //   icon: logo,
+  // },
 }
 
 export default function RootLayout({ children }) {

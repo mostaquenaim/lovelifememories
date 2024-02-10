@@ -4,6 +4,7 @@ import Link from 'next/link';
 import SocialLinks from '../Socials/SocialLinks';
 import SocialLinks2 from '../Socials/SocialLinks2';
 import Image from 'next/image';
+import { FaMapLocation } from 'react-icons/fa6';
 
 const Footer = () => {
     const phoneNumber = '+8801720087583';
@@ -31,17 +32,25 @@ const Footer = () => {
                 {LoveLifeFooter}
             </div>
             {/* contact  */}
-            <div className='flex flex-col items-center'>
-                <header className="footer-title text-base-100 text-lg">Contact</header>
-                <Link href={`tel:${phoneNumber}`} className="flex gap-3 items-center">
-                    <BsTelephone></BsTelephone>
-                    {phoneNumber}
-                </Link>
-                <Link href={`mailto:${email}`} className="flex gap-3 items-center">
-                    <AiOutlineMail></AiOutlineMail>
-                    {email}
-                </Link>
-            </div>
+            <div className='flex flex-col items-center lg:items-start'>
+                    <header className="footer-title text-base-100 text-lg">
+                        Contact
+                    </header>
+                    <div className="flex gap-3">
+                        <FaMapLocation />
+                        2nd Floor, 2-G/8, Maa House, Golden Street ,<br />
+                        Ring Road, Shyamoli, Dhaka-1207,
+                        <br />Dhaka, Bangladesh
+                    </div>
+                    <Link href={`tel:${phoneNumber}`} className="flex gap-3">
+                        <BsTelephone></BsTelephone>
+                        {phoneNumber}
+                    </Link>
+                    <Link href={`mailto:${email}`} className="flex gap-3">
+                        <AiOutlineMail></AiOutlineMail>
+                        {email}
+                    </Link>
+                </div>
             {/* lovelife middle  */}
             <div className='hidden absolute lg:flex flex-col 
             items-center text-center justify-center mx-auto right-1/3 m-0 p-0'>
